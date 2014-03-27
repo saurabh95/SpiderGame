@@ -1,0 +1,28 @@
+
+INSTALLATION GUIDELINES
+1) Type command "make" on the command line.
+2) Type command "./spider" on the command line.
+
+
+FEATURES
+
+
+1) Two baskets(red and green) and 1 cannon can move sideways with left and right key and switch with r,b,g (case-insensitive).
+2) Spiders which are small rectangles appear randomly on the screen with random color and fall down towards the base in every second.
+3) Once they reach base they stop.
+4) Beam is generated when space bar is pressed.There should be difference of atleast 1 second between 2 consecutive beams.
+5) Beam is reflected by the walls.
+6) Cannon can also be rotated(-90 to +90) using down and up arrow key respectively.
+7) Press p to pause the game.
+8) If Spider lands on canon Game gets over.
+9) The Baskets and canon can be selected by clicking on them with mouse and also thy can be dragged with the help of mouse.
+10) Press ESC key to exit the game.
+11) The openAL(music) code snippet has been taken from http://devmaster.net/posts/2890/openal-lesson-3-multiple-sources
+
+
+
+
+
+Made By : 
+Saurabh Kathpalia
+201201039
